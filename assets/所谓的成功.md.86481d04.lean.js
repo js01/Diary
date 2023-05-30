@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as p,O as a}from"./chunks/framework.3ac6d672.js";const f=JSON.parse('{"title":"所谓的成功","description":"","frontmatter":{},"headers":[],"relativePath":"所谓的成功.md","filePath":"所谓的成功.md"}'),o={name:"所谓的成功.md"},_=a("",13),r=[_];function s(c,n,i,d,l,h){return e(),p("div",null,r)}const u=t(o,[["render",s]]);export{f as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,O as o}from"./chunks/framework.3ac6d672.js";const u=JSON.parse('{"title":"道德经","description":"","frontmatter":{},"headers":[],"relativePath":"道德经.md","filePath":"道德经.md"}'),n={name:"道德经.md"},e=o("",240),s=[e];function h(i,l,p,g,d,_){return r(),t("div",null,s)}const b=a(n,[["render",h]]);export{u as __pageData,b as default};
