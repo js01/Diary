@@ -1,3 +1,3 @@
 # 随笔
 
-https://wxcoder1979.github.io/diary/
+https://js01.github.io/diary/
